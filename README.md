@@ -1,4 +1,4 @@
-<img src="https://pa1.narvii.com/7403/c3bf9834bdc2630f83bbdbf61042d4a63d5d1f62r1-540-304_hq.gif" alt="alternatetext">
+<img src="https://pa1.narvii.com/7403/c3bf9834bdc2630f83bbdbf61042d4a63d5d1f62r1-540-304_hq.gif" >
 
 # Hi there 👋
 
