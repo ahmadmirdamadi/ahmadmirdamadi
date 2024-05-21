@@ -16,7 +16,7 @@ I am very interested in teamwork, because in teamwork, if the team is united, th
 <p>3) Deep Learning models:CNN,LSTM,RNN,etc</p>
 <p>4)Image Processing(OpenCV Package)</p>
 <p>5)Machine Vision:Object Detection,Object Tracking,etc</p>
-<p>6)Signal Processing(MNE Package)</p>
+<p>6)Signal Processing & BCI (MNE Package)</p>
 <p>7)NLP (Natural Language Processing)</p>
 <p>8)Ability to work with NLP_related packages to develop a language model(For example NLTK Package)</p>
 <p>9)Mastery of Python and packages related to our specialty:Tensorflow,Pytorch,Keras,etc</p>
