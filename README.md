@@ -12,15 +12,17 @@ I am very interested in teamwork, because in teamwork, if the team is united, th
 
 
 <p>1) Normalize the data,Statistics,Data optimization,Data visualization</p>
-<p>2)Classic models of machine learning:Random Forest,Regression Models,K-NN,SVM,etc</p>
+<p>2) Classic models of machine learning:Random Forest,Regression Models,K-NN,SVM,etc</p>
 <p>3) Deep Learning models:CNN,LSTM,RNN,etc</p>
-<p>4)Image Processing(OpenCV Package)</p>
-<p>5)Machine Vision:Object Detection,Object Tracking,etc</p>
-<p>6)Signal Processing & BCI (MNE Package)</p>
-<p>7)NLP (Natural Language Processing)</p>
-<p>8)Ability to work with NLP_related packages to develop a language model(For example NLTK Package)</p>
-<p>9)Mastery of Python and packages related to our specialty:Tensorflow,Pytorch,Keras,etc</p>
-<p>10)Ability to work with open sourse models and chatbots:LlaMa,Gemma,etc</p>
+<p>4) Image Processing(OpenCV Package)</p>
+<p>5) Machine Vision:Object Detection,Object Tracking,etc</p>
+<p>6) Signal Processing & BCI (MNE Package)</p>
+<p>7) NLP (Natural Language Processing)</p>
+<p>8) Ability to work with NLP_related packages to develop a language model(For example NLTK Package)</p>
+<p>9) Mastery of Python and packages related to our specialty:Tensorflow,Pytorch,Keras,etc</p>
+<p>10) Ability to work with open sourse models and chatbots:LlaMa,Gemma,etc</p>
+<p>11) Being familiar with MLOps</p>
+<p>12) Sufficient familiarity with the subject of Recommender Systems</p>
 
 
 ## Packages and Tools:
