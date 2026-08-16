@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C5112AQHJOZ3yHW-IpA/article-cover_image-shrink_600_2000/0/1568294141948?e=2147483647&v=beta&t=gcmkmtajD9bJh-b9Qa31n8P0FCDGI4TfJ808XrNCsso" >
+<img src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif" >
 
 
 # Hi there 👋
