@@ -52,7 +52,6 @@ I am very interested in teamwork, because in teamwork, if the team is united, th
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmirdamadi&show_icons=true&locale=en&layout=compact" alt="ahmadmirdamadi" /></p>
 
 
 
